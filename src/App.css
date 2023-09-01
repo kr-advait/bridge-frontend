@@ -28,6 +28,29 @@
   color: #61dafb;
 }
 
+button {
+  padding: 1rem;
+  font-size: large;
+  border-radius: 0.2rem;
+}
+
+a {
+  color: rgb(156, 5, 215);
+}
+
+hr {
+  display: inline-block;
+  width: 99vw;
+}
+
+input {
+  display: inline-block;
+  width: 9rem;
+  height: 2.5rem;
+  font-size: large;
+  text-align: center;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
