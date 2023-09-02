@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bridge-frontend/static/css/main.ede6f845.css",
+    "main.js": "/bridge-frontend/static/js/main.d04c2a8f.js",
+    "static/js/787.037ec4e3.chunk.js": "/bridge-frontend/static/js/787.037ec4e3.chunk.js",
+    "index.html": "/bridge-frontend/index.html",
+    "main.ede6f845.css.map": "/bridge-frontend/static/css/main.ede6f845.css.map",
+    "main.d04c2a8f.js.map": "/bridge-frontend/static/js/main.d04c2a8f.js.map",
+    "787.037ec4e3.chunk.js.map": "/bridge-frontend/static/js/787.037ec4e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ede6f845.css",
+    "static/js/main.d04c2a8f.js"
+  ]
+}
