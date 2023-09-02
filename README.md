@@ -1,0 +1,1 @@
+Test deposit for supernet bridge : https://kr-advait.github.io/bridge-frontend/
