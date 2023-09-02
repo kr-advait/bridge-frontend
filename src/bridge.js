@@ -1,7 +1,7 @@
-const ethers = require("ethers")
+import {ethers} from "ethers"
 
 
-async function approve(rootChainTokenContract, rootErc20PredicateContractAddress, signer) {
+export async function approve(rootChainTokenContract, rootErc20PredicateContractAddress, signer) {
     try {
 
         let txHash;
@@ -40,7 +40,7 @@ async function approve(rootChainTokenContract, rootErc20PredicateContractAddress
 }
 
 
-async function deposit(userAddress, amount, rootChainTokenContractAddress, rootErc20PredicateContract, signer) {
+export async function deposit(userAddress, amount, rootChainTokenContractAddress, rootErc20PredicateContract, signer) {
     try {
 
         let txHash;
@@ -78,10 +78,4 @@ async function deposit(userAddress, amount, rootChainTokenContractAddress, rootE
         return error
     }
 
-}
-
-
-module.exports = {
-    approve,
-    deposit
 }
