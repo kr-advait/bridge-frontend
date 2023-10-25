@@ -5,7 +5,7 @@ import { approve, deposit } from './bridge';
 import rootChainTokenAbi from './abi/ChainTokenMatic.json';
 import rootErc20PredicateAbi from './abi/rootErc20Predicate.json';
 
-const rootErc20PredicateContractAddress = "0xdf3C0375CD3dfb3Df6EaE5794f70C5D2Be0B13C7"
+const rootErc20PredicateContractAddress = "0xd9c2b7e057f91ccaba47a467e8301a3d8f04abB6"
 const rootChainTokenContractAddress = "0x783288fb03079238dd917794ec16F812eB25B390"
 
 
